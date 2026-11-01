@@ -1,6 +1,3 @@
-// ESP-NOW block network: broadcast "I'm here" and count the boards we hear.
-// No router and no Wi-Fi connection are used.
-
 #include <WiFi.h>
 #include <esp_now.h>
 
